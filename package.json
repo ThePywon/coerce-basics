@@ -1,0 +1,32 @@
+{
+  "name": "@protagonists/coerce-basics",
+  "version": "1.0.0",
+  "description": "Some SchemaTypes to get you started with @protagonists/coerce",
+  "main": "basics",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThePywon/coerce-basics.git"
+  },
+  "keywords": [
+    "protagonists",
+    "pywon",
+    "coerce",
+    "parsing",
+    "conversion",
+    "type",
+    "types",
+    "schema"
+  ],
+  "author": "Pywon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThePywon/coerce-basics/issues"
+  },
+  "homepage": "https://github.com/ThePywon/coerce-basics#readme",
+  "dependencies": {
+    "@protagonists/coerce": "^1.0.8"
+  }
+}
